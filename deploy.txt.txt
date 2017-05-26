@@ -1,1 +1,5 @@
 djvksaljmc
+dir.var=char
+var.dir=char
+char.war=rar
+raar.maar=far
